@@ -112,14 +112,14 @@ Full-stack web app for managing personal task lists.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adarsh724&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=adarsh724&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=adarsh724&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lovat-pi-90.vercel.app/api?username=adarsh724&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-lovat-pi-90.vercel.app/api?username=adarsh724&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img height="165" src="https://github-readme-stats-lovat-pi-90.vercel.app/api?username=adarsh724&show_icons=true&theme=default&hide_border=true&count_private=true" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh724&layout=compact&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh724&layout=compact&theme=default&hide_border=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh724&layout=compact&theme=default&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lovat-pi-90.vercel.app/api/top-langs/?username=adarsh724&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-lovat-pi-90.vercel.app/api/top-langs/?username=adarsh724&layout=compact&theme=default&hide_border=true" />
+    <img height="165" src="https://github-readme-stats-lovat-pi-90.vercel.app/api/top-langs/?username=adarsh724&layout=compact&theme=default&hide_border=true" />
   </picture>
 </p>
 
