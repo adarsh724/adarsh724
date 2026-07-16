@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adarsh Soni</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1C3C3C&height=200&section=header&text=Adarsh%20Soni&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 <h3 align="center">Full-Stack / Backend Developer | Electrical Engineering @ NIT Patna</h3>
 
 <p align="center">
@@ -155,7 +155,11 @@ Full-stack web app for managing personal task lists.
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adarsh724/adarsh724/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="...&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="...&theme=default">
+  <img src="...&theme=default">
+</picture>
 </p>
 
 > ⚙️ To make the snake above work, add the GitHub Action from
