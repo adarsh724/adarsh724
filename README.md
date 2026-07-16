@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1C3C3C&height=200&section=header&text=Adarsh%20Soni&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-<h3 align="center">Full-Stack / Backend Developer | Electrical Engineering @ NIT Patna</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1C3C3C&height=200&section=header&text=Adarsh%20Soni&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%2F%20Backend%20Developer&descAlignY=75" />
 
 <p align="center">
   <a href="https://linkedin.com/in/adarsh-soni-a01276320">
@@ -30,45 +29,15 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adarsh724&color=2E9EF7&style=flat-square&label=Profile+Views" />
+</p>
+
 ### 🧰 Tech Stack
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,js,python,nodejs,express,html,css,sass,jquery,mongodb,redis,git,github&theme=dark" />
 </p>
-
-**Web / Backend**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-</p>
-
-**Databases & Tools**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
-
-**ML / Data**
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-005571?style=flat-square" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-</p>
-
 ---
 
 ### 🔥 Featured Projects
@@ -142,31 +111,41 @@ Full-stack web app for managing personal task lists.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adarsh724&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh724&layout=compact&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adarsh724&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=adarsh724&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=adarsh724&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh724&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh724&layout=compact&theme=default&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh724&layout=compact&theme=default&hide_border=true" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh724&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=adarsh724&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=adarsh724&theme=default&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh724&theme=default&hide_border=true" />
+  </picture>
 </p>
 
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ---
 
 ### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="...&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="...&theme=default">
-  <img src="...&theme=default">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarsh724/adarsh724/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarsh724/adarsh724/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/adarsh724/adarsh724/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
-
-> ⚙️ To make the snake above work, add the GitHub Action from
-> [`Platane/snk`](https://github.com/Platane/snk) to this repo — it auto-generates
-> `github-contribution-grid-snake.svg` on a schedule. Setup steps are below.
-
----
 
 ### 📫 Reach Me
 
